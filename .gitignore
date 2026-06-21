@@ -1,0 +1,6 @@
+__pycache__
+.idea
+.env
+# tests
+temporary_files
+webftp.log
